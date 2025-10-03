@@ -1,2 +1,2 @@
-# hello-world-python
-A simple 'Python Hello-World' project to get started in GitHub!
+# hello-name-python
+A simple 'Python Hello-NAME' project to get started in GitHub!
